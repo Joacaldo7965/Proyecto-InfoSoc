@@ -4015,3 +4015,11 @@ input, select, textarea {
 	#index_logo{
 		border-radius: 50%;
 	}
+
+	.calculator input{
+		color: black;
+	}
+
+	.calculator button{
+		margin-top: 20px;
+	}
